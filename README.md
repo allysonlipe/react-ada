@@ -1,4 +1,4 @@
-# Estudos em React
+# React Studies
 
 This repository is my studies in react, guided by the "Trilha Digital - ADA" program
 ## First, run the development server:
